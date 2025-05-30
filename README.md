@@ -3,7 +3,7 @@
   From Zero Trust blueprints to Scrum team revivals, from Azure AD mergers to Salesforce CRM in secure Teams environments, I lead like a tactician, deliver like a visionary, and rewrite the rules like a startup founder. However, I abide by a strict professional and ethical code of conduct, and we must always strive to question everything, tweak until it is perfect, and make sure the impact is measurable. I am equal parts builder, protector, and strategist with a DIY streak and business brain to match.</a>, <a href="https://www.linkedin.com/in/Bryan Onoche/"></a></b>
 
 <h2>My Project Portfolio</h2>
- 1. Data Loss Prevention (DLP) Implementation
+ 1. Data Loss Prevention (DLP) Implementation https://github.com/mrbryanonoche/Data-Loss-Prevention-DLP-Implementation.git
 
 Business Case: Protect sensitive data across emails, endpoints, and cloud services using automated policies to prevent data loss.
 
