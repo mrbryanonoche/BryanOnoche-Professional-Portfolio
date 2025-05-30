@@ -1063,42 +1063,6 @@ Document success stories to encourage best practices adoption.
 
 
 
-	21. Network Segmentation Strategy
+21. Network Segmentation Strategy [https://github.com/mrbryanonoche/Network-Segmentation.git]
 
-Business Case: Improve network security by segmenting traffic and minimizing risks from unauthorized access.
 
-Overview: Developed and implemented a network segmentation strategy to enhance security.
-
-Key Contributions:
-
-Defined segmentation zones based on organizational needs.
-
-Configured firewalls and access controls for secure traffic flow.
-
-Monitored segmentation performance and adapted configurations.
-
-Results: Improved network security by reducing unauthorized access by 80%.
-
-Tools & Environment: Cisco Firewalls, VLANs, Network Monitoring Tools.
-
-Workflow Placeholder: Define Zones → Configure Policies → Monitor Traffic → Optimize Configurations
-
-Visual Placeholder: A Diagram showing segmented network zones with controlled access points.
-
-10 Best Practices:
-
-Use VLANs for efficient traffic segmentation.
-
-Define clear access control policies for each zone.
-
-Monitor traffic continuously for anomalies.
-
-Automate segmentation workflows where possible.
-
-Train staff on network segmentation principles.
-
-Use firewalls to enforce traffic rules.
-
-Collaborate with vendors for advanced segmentation features.
-
-Test
