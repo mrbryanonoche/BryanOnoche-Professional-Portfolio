@@ -1,50 +1,77 @@
-<h1>The Digital Alchemist<br/></h1>
-<b>A powerhouse blend of IT mastermind, cybersecurity sentinel, and Agile commander, I am the go-to force for turning chaos into clean architecture. With 20+ years of tech leadership, credentials (PMP, CSM, Six Sigma, MBA), and hands-on chops in managing and executing projects in cloud infrastructure, Microsoft Intune, Sentinel & Endpoint, DevSecOps, EDI, and M365 governance, etc. I don't just manage projects, I engineer enterprise evolution.
-  From Zero Trust blueprints to Scrum team revivals, from Azure AD mergers to Salesforce CRM in secure Teams environments, I lead like a tactician, deliver like a visionary, and rewrite the rules like a startup founder. However, I abide by a strict professional and ethical code of conduct, and we must always strive to question everything, tweak until it is perfect, and make sure the impact is measurable. I am equal parts builder, protector, and strategist with a DIY streak and business brain to match.</a>, <a href="https://www.linkedin.com/in/Bryan Onoche/"></a></b>
+# 👋 Bryan Onoche – Professional Project Portfolio
 
-<h2>My Project Portfolio</h2>
-1.	Data Loss Prevention (DLP) Implementation - [https://github.com/mrbryanonoche/Data-Loss-Prevention-DLP-Implementation.git]
+Welcome to my project portfolio, a curated collection of hands-on implementations, simulations, and case studies that showcase my expertise in:
 
-2.	Penetration Testing and Vulnerability Assessment - [https://github.com/mrbryanonoche/Penetration-Testing-and-Vulnerability-Assessment.git]
+- 🛡️ Cybersecurity & Microsoft Cloud Security
+- 📊 Governance, Risk & Compliance (GRC)
+- 🧠 Agile Project & Program Management
+- ⚙️ Infrastructure Monitoring & IT Service Management (ITSM)
+- 🔬 Threat Detection, SIEM, and Endpoint Security (e.g., SentinelOne, Defender)
+- 🧩 Forage Virtual Experience Projects
 
-3.	SIEM Correlation and Dashboard Customization - https://github.com/mrbryanonoche/[https://github.com/mrbryanonoche/SIEM-Correlation-and-Dashboard-Customization.git]
+> 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/bryanonoche)  
+> 📄 View Resume – Available upon request  
+> 🌐 This portfolio supports applications for: **GRC Analyst**, **Cybersecurity Engineer**, **Scrum Master**, **IT Project Manager**, **IT Director**, and more.
 
-4.	IoT Security for Smart Devices - [https://github.com/mrbryanonoche/IoT-Security-for-Smart-Devices.git]
+---
 
-5.	Phishing Simulation and User Awareness Training - [https://github.com/mrbryanonoche/Phishing-Simulation-and-User-Awareness-Training.git]
+## 📁 Portfolio Categories
 
-6.	Microsoft Endpoint Protection Project Plan - [https://github.com/mrbryanonoche/Endpoint-Protection-Strategy.git]
+### 🔐 Cybersecurity Projects
+Real-world security deployments with Microsoft tools.
 
-7.	Cloud Security Compliance Audit - [https://github.com/mrbryanonoche/Cloud-Security-Compliance-Audit.git]
+- **[SentinelOne XDR Deployment](./SentinelOne-Deployment/README.md)**  
+  Deployed SentinelOne across 180+ endpoints; integrated with Microsoft Sentinel and automated threat response.
 
-8.	Identity and Access Management (IAM) Solutions - [https://github.com/mrbryanonoche/Identity-and-Access Management-(IAM)-Solutions.git]
+- **[Intune Compliance + Conditional Access](./Intune-Compliance/README.md)**  
+  Enforced device compliance and remote policy management across a hybrid workforce.
 
-9.	Incident Response Automation - [https://github.com/mrbryanonoche/Incident-Response-Automation.git]
+- **[Microsoft Defender + Sentinel SIEM Integration](./Defender-Sentinel-SIEM/README.md)**  
+  Correlated Defender logs in Sentinel for real-time attack detection and response.
 
-10.	Data Integrity Monitoring - [https://github.com/mrbryanonoche/-Data-Integrity-Monitoring.git]
+---
 
-11.	Threat Hunting and Incident Response - [https://github.com/Threat-Hunting-and-Incident-Response.git]
+### 📊 GRC & Compliance Projects
+Risk reduction and policy-based security enforcement.
 
-12.	Web Application Security Testing- [https://github.com/mrbryanonoche/Web-Application-Security-Testing.git]
+- **[NIST Framework Alignment (Mock Project)](./GRC-NIST-Mock/README.md)**  
+  Mapped real-world Azure security controls to NIST 800-53 baselines.
 
-13.	Malware Analysis and Reverse Engineering - [https://github.com/mrbryanonoche/Data-Loss-Prevention-DLP-Implementation.git]
+- **[HIPAA-Driven Cloud Access Controls](./HIPAA-Security/README.md)**  
+  Implemented role-based access and DLP for a healthcare startup under HIPAA regulation.
 
-14.	Ransomware Mitigation Strategies - [https://github.com/mrbryanonoche/Ransomware-Mitigation-Strategies.git]
+---
 
-15.	Disaster Recovery Planning (DR) - [https://github.com/mrbryanonoche/Disaster-Recovery-Planning.git]
+### 🧠 Agile / IT Project Management
+Enterprise transformation initiatives and Agile coaching.
 
-16.	Secure Software Development Lifecycle (SSDLC) Implementation - [https://github.com/mrbryanonoche/Secure-Software-Development-Lifecycle-(SSDLC)-Implementation.git]
+- **[Agile Transformation for EDI Compliance](./Agile-EDI/README.md)**  
+  Delivered backlog-driven EDI implementation in a regulated manufacturing environment.
 
-17.	Public Key Infrastructure (PKI) Deployment - [https://github.com/mrbryanonoche/Public-Key-Infrastructure-(PKI)-Deployment.git]
+- **[Azure DevOps for Cross-Team Coordination](./AzureDevOps-Agile/README.md)**  
+  Managed sprint planning, burndowns, and stakeholder reporting for a DevSecOps pipeline.
 
-18.	Cybersecurity Awareness Campaign - [https://github.com/mrbryanonoche/Cybersecurity-Awareness-Campaign.git]
+---
 
-19.	Mobile Device Management (MDM) Deployment - [https://github.com/mrbryanonoche/ Mobile Device Management (MDM) Deployment.git]
+### 🧪 Forage Virtual Experience Projects
+Credentialed hands-on simulations with top firms.
 
-20.	Risk Assessment Framework Design - [https://github.com/mrbryanonoche/Risk-Assessment-Framework-Design.git]
+- **[Cybersecurity @ PwC – Threat Modeling & Risk Response](./Forage-PwC-Cybersecurity/README.md)**
+- **[JPMorgan Software Engineering Lite](./Forage-JPMorgan-SE/README.md)**
+- **[Data Analytics @ Accenture](./Forage-Accenture-Data/README.md)**
 
-21.	Network Segmentation Strategy - [https://github.com/mrbryanonoche/Network-Segmentation.git]
+---
 
-22. Microsoft AI Enterprise Security  - [(https://github.com/mrbryanonoche/Microsoft-AI-Enterprise-Security-Implementation-Project)]
+## 🧠 Skills Highlighted
+`Microsoft Sentinel` • `Azure AD` • `Intune` • `Defender for Endpoint` • `SIEM/SOAR` • `DLP` • `IAM` • `Jira` • `ServiceNow` • `GRC (NIST, HIPAA)` • `Sprint Facilitation` • `Risk Mitigation` • `Agile Coaching` • `Forage Simulations`
 
-23. Network https://github.com/mrbryanonoche/Wireshark-Network-Protocol-Analysis-Projec  [https://github.com/mrbryanonoche/Wireshark-Network-Protocol-Analysis-Project]
+---
+
+## 🤝 Contact
+
+Feel free to connect or reach out for collaboration, consulting, or leadership roles.
+
+📬 [LinkedIn: Bryan Onoche](https://www.linkedin.com/in/bryanonoche)  
+📫 Email available upon request
+
+---
