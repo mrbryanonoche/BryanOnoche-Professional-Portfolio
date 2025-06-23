@@ -1,77 +1,75 @@
 # 👋 Bryan Onoche – Professional Project Portfolio
 
-Welcome to my project portfolio, a curated collection of hands-on implementations, simulations, and case studies that showcase my expertise in:
+Welcome to my professional portfolio showcasing hands-on cybersecurity, GRC, Agile, and digital transformation projects. These case studies represent real-world simulations, platform deployments, and IT delivery initiatives that align with my experience and the roles I am actively pursuing:
 
-- 🛡️ Cybersecurity & Microsoft Cloud Security
-- 📊 Governance, Risk & Compliance (GRC)
-- 🧠 Agile Project & Program Management
-- ⚙️ Infrastructure Monitoring & IT Service Management (ITSM)
-- 🔬 Threat Detection, SIEM, and Endpoint Security (e.g., SentinelOne, Defender)
-- 🧩 Forage Virtual Experience Projects
+🎯 Target Roles:
+- Cybersecurity Analyst / Engineer
+- GRC Analyst
+- IT Project Manager / Agile PM
+- Scrum Master
+- IT Manager / Director
+- Program Delivery Lead
+- Cloud Security Specialist
 
-> 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/bryanonoche)  
-> 📄 View Resume – Available upon request  
-> 🌐 This portfolio supports applications for: **GRC Analyst**, **Cybersecurity Engineer**, **Scrum Master**, **IT Project Manager**, **IT Director**, and more.
-
----
-
-## 📁 Portfolio Categories
-
-### 🔐 Cybersecurity Projects
-Real-world security deployments with Microsoft tools.
-
-- **[SentinelOne XDR Deployment](./SentinelOne-Deployment/README.md)**  
-  Deployed SentinelOne across 180+ endpoints; integrated with Microsoft Sentinel and automated threat response.
-
-- **[Intune Compliance + Conditional Access](./Intune-Compliance/README.md)**  
-  Enforced device compliance and remote policy management across a hybrid workforce.
-
-- **[Microsoft Defender + Sentinel SIEM Integration](./Defender-Sentinel-SIEM/README.md)**  
-  Correlated Defender logs in Sentinel for real-time attack detection and response.
+> 🔗 [LinkedIn Profile](https://www.linkedin.com/in/bryanonoche)  
+> 📧 Contact available upon request
 
 ---
 
-### 📊 GRC & Compliance Projects
-Risk reduction and policy-based security enforcement.
+## 🔐 Cybersecurity & Endpoint Protection
 
-- **[NIST Framework Alignment (Mock Project)](./GRC-NIST-Mock/README.md)**  
-  Mapped real-world Azure security controls to NIST 800-53 baselines.
-
-- **[HIPAA-Driven Cloud Access Controls](./HIPAA-Security/README.md)**  
-  Implemented role-based access and DLP for a healthcare startup under HIPAA regulation.
-
----
-
-### 🧠 Agile / IT Project Management
-Enterprise transformation initiatives and Agile coaching.
-
-- **[Agile Transformation for EDI Compliance](./Agile-EDI/README.md)**  
-  Delivered backlog-driven EDI implementation in a regulated manufacturing environment.
-
-- **[Azure DevOps for Cross-Team Coordination](./AzureDevOps-Agile/README.md)**  
-  Managed sprint planning, burndowns, and stakeholder reporting for a DevSecOps pipeline.
+| Project | Summary |
+|--------|---------|
+| [SentinelOne XDR Deployment](./SentinelOne-Deployment) | Deployed and integrated SentinelOne with Microsoft Sentinel to auto-contain threats and reduce response time |
+| [Microsoft Intune Compliance](./Intune-Compliance) | Enforced device compliance with conditional access, encryption, and HIPAA-compliant security baselines |
+| [Defender + Sentinel SIEM Integration](./Defender-Sentinel-SIEM) | Built end-to-end telemetry flow, KQL alert rules, and Logic App automation for real-time threat detection |
 
 ---
 
-### 🧪 Forage Virtual Experience Projects
-Credentialed hands-on simulations with top firms.
+## 📊 Governance, Risk & Compliance (GRC)
 
-- **[Cybersecurity @ PwC – Threat Modeling & Risk Response](./Forage-PwC-Cybersecurity/README.md)**
-- **[JPMorgan Software Engineering Lite](./Forage-JPMorgan-SE/README.md)**
-- **[Data Analytics @ Accenture](./Forage-Accenture-Data/README.md)**
-
----
-
-## 🧠 Skills Highlighted
-`Microsoft Sentinel` • `Azure AD` • `Intune` • `Defender for Endpoint` • `SIEM/SOAR` • `DLP` • `IAM` • `Jira` • `ServiceNow` • `GRC (NIST, HIPAA)` • `Sprint Facilitation` • `Risk Mitigation` • `Agile Coaching` • `Forage Simulations`
+| Project | Summary |
+|--------|---------|
+| [HIPAA Security Controls](./HIPAA-Security-Controls) | Implemented technical safeguards for PHI using Microsoft 365, Azure AD, and DLP tools |
+| [NIST Framework Mapping](./NIST-Framework-Mapping) *(coming soon)* | Aligned Microsoft cloud controls with NIST 800-53 and Zero Trust principles |
+| [Cloud Audit & GRC Readiness](./Cloud-GRC-Audit-Mock) *(coming soon)* | Mock GRC audit documentation project for Microsoft/Azure environments |
 
 ---
 
-## 🤝 Contact
+## 🧠 Agile & Digital Transformation
 
-Feel free to connect or reach out for collaboration, consulting, or leadership roles.
+| Project | Summary |
+|--------|---------|
+| [Agile EDI Implementation](./Agile-EDI-Implementation) | Led Agile rollout and sprint-based delivery for partner onboarding and regulatory compliance |
+| [Azure DevOps Sprint Management](./AzureDevOps-Sprint-Setup) *(coming soon)* | Created sprint boards, velocity tracking, and stakeholder dashboards |
+| [ServiceNow Change Workflow](./ServiceNow-Change-Workflow) *(coming soon)* | Customized ITSM workflows aligned with CMDB and change advisory practices |
 
-📬 [LinkedIn: Bryan Onoche](https://www.linkedin.com/in/bryanonoche)  
-📫 Email available upon request
+---
+
+## 🧪 Forage Virtual Experience Projects
+
+| Project | Summary |
+|--------|---------|
+| [PwC Cybersecurity Simulation](./Forage-PwC-Cybersecurity) | Assessed threat incidents, created stakeholder risk reports, and recommended technical responses |
+| [JPMorgan Software Engineering](./Forage-JPMorgan-Engineering) | Built a simple Python-based dashboard to process and visualize financial transactions |
+| [Accenture Data Analytics](./Forage-Accenture-DataAnalytics) | Developed insights using raw sales data and recommended go-to-market strategies via visuals |
+
+---
+
+## 🧰 Tools & Skills Demonstrated
+
+- Microsoft Sentinel • Intune • Defender for Endpoint • Azure AD • Logic Apps  
+- SIEM/SOAR • KQL • Conditional Access • Microsoft 365 DLP  
+- HIPAA & NIST Compliance • Risk Assessment • IAM  
+- Scrum • Jira • Azure DevOps • Agile Coaching  
+- Forage Virtual Simulations • Power BI • Python • EDI Systems
+
+---
+
+## 🤝 Let’s Connect
+
+📩 **Let’s talk:** I’m open to full-time, contract, or consulting roles in cybersecurity, GRC, cloud delivery, or Agile leadership.
+
+📎 [View LinkedIn Profile](https://www.linkedin.com/in/bryanonoche)
 
 ---
