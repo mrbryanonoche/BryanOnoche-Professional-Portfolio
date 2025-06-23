@@ -30,9 +30,9 @@ Welcome to my professional portfolio showcasing hands-on cybersecurity, GRC, Agi
 
 | Project | Summary |
 |--------|---------|
-| [HIPAA Security Controls](./HIPAA-Security-Controls) | Implemented technical safeguards for PHI using Microsoft 365, Azure AD, and DLP tools |
-| [NIST Framework Mapping](./NIST-Framework-Mapping) *(coming soon)* | Aligned Microsoft cloud controls with NIST 800-53 and Zero Trust principles |
-| [Cloud Audit & GRC Readiness](./Cloud-GRC-Audit-Mock) *(coming soon)* | Mock GRC audit documentation project for Microsoft/Azure environments |
+| [HIPAA Security Controls](./HIPAA-Security-Controls) | Implemented PHI safeguards using Microsoft 365, Azure AD, and DLP tools |
+| [PCI-DSS Compliance Readiness](./PCI-DSS-Compliance-Project) | Mapped Microsoft tools to PCI-DSS v4.0 controls including audit logging, encryption, and access restriction |
+| [SOX ITGC Compliance Simulation](./SOX-ITGC-Compliance) | Simulated SOX 404 audit using Sentinel, RBAC, DevOps logs, and change approval workflows |
 
 ---
 
