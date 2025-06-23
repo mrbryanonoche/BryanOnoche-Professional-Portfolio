@@ -13,7 +13,7 @@
 
 5.	Phishing Simulation and User Awareness Training - [https://github.com/mrbryanonoche/Phishing-Simulation-and-User-Awareness-Training.git]
 
-6.	Endpoint Protection Strategy - [https://github.com/mrbryanonoche/Endpoint-Protection-Strategy.git]
+6.	Microsoft Endpoint Protection Project Plan - [https://github.com/mrbryanonoche/Endpoint-Protection-Strategy.git]
 
 7.	Cloud Security Compliance Audit - [https://github.com/mrbryanonoche/Cloud-Security-Compliance-Audit.git]
 
@@ -45,4 +45,6 @@
 
 21.	Network Segmentation Strategy - [https://github.com/mrbryanonoche/Network-Segmentation.git]
 
+22. Microsoft AI Enterprise Security  - [(https://github.com/mrbryanonoche/Microsoft-AI-Enterprise-Security-Implementation-Project)]
 
+23. Network https://github.com/mrbryanonoche/Wireshark-Network-Protocol-Analysis-Projec  [https://github.com/mrbryanonoche/Wireshark-Network-Protocol-Analysis-Project]
